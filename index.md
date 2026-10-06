@@ -1,3 +1,7 @@
+generalist
+
+![photo of me](./20241227_2354_Wealthy Feline Mastermind_simple_compose_01jg6450cnfv2bjkyrbta05m7n.gif)
+
 <main style="max-width: 46rem; box-sizing: border-box; margin: 3rem auto 4rem; padding: clamp(2rem, 6vw, 4rem); border: 1px solid #295c3e; border-radius: 1.5rem; background: radial-gradient(ellipse at top, #183523 0%, #0d1711 68%); color: #f5f2e9; text-align: center; box-shadow: 0 1.5rem 4rem rgba(18, 39, 25, 0.16);">
   <h1 style="margin: 0 0 1.25rem; color: #f5f2e9; font-size: clamp(2rem, 6vw, 3.2rem); line-height: 1.12; letter-spacing: -0.04em;">i am leader of money group.</h1>
 
