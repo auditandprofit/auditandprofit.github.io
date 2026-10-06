@@ -16,7 +16,7 @@
 
   <p style="margin: 0; color: #d4e3d7; font-size: 1.05rem;">juice wrld is our mascot.</p>
 
-  <p style="margin: 1.25rem 0 0; color: #d4e3d7; font-size: 1.05rem;">members include pwnie, badr, marek, and paolo.</p>
+  <p style="margin: 1.25rem 0 0; color: #d4e3d7; font-size: 1.05rem;">members include pwnie, badr, marek, paolo, hldmyhand, and deeznuts.</p>
 
   <section aria-labelledby="meeting-countdown-title" style="margin: 2.5rem 0 0; padding: clamp(1.25rem, 4vw, 2rem); border: 1px solid rgba(151, 235, 171, 0.42); border-radius: 1.25rem; background: linear-gradient(145deg, rgba(47, 103, 64, 0.3), rgba(4, 10, 7, 0.82)); box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.06), 0 1rem 2.5rem rgba(0, 0, 0, 0.2);">
     <h2 id="meeting-countdown-title" style="margin: 0; color: #c5f4cf; font-size: clamp(1.15rem, 4vw, 1.5rem); letter-spacing: 0.04em;">money group first meeting</h2>
