@@ -1,8 +1,9 @@
-generalist
-
-![photo of me](./20241227_2354_Wealthy Feline Mastermind_simple_compose_01jg6450cnfv2bjkyrbta05m7n.gif)
-
 <main style="max-width: 46rem; box-sizing: border-box; margin: 3rem auto 4rem; padding: clamp(2rem, 6vw, 4rem); border: 1px solid #295c3e; border-radius: 1.5rem; background: radial-gradient(ellipse at top, #183523 0%, #0d1711 68%); color: #f5f2e9; text-align: center; box-shadow: 0 1.5rem 4rem rgba(18, 39, 25, 0.16);">
+  <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 1rem; margin: 0 auto 2.25rem; padding: 0 0 1.75rem; border-bottom: 1px solid rgba(165, 230, 182, 0.2);">
+    <img src="/20241227_2354_Wealthy%20Feline%20Mastermind_simple_compose_01jg6450cnfv2bjkyrbta05m7n.gif" alt="photo of me" width="172" height="97" style="display: block; width: min(38vw, 172px); height: auto; border: 1px solid rgba(165, 230, 182, 0.38); border-radius: 0.9rem; box-shadow: 0 0.75rem 1.75rem rgba(0, 0, 0, 0.25);">
+    <span style="display: inline-flex; align-items: center; min-height: 2.6rem; padding: 0 1rem; border: 1px solid rgba(165, 230, 182, 0.28); border-radius: 999px; background: rgba(165, 230, 182, 0.08); color: #a5e6b6; font-size: 0.95rem; font-weight: 700; letter-spacing: 0.06em;">generalist</span>
+  </div>
+
   <h1 style="margin: 0 0 1.25rem; color: #f5f2e9; font-size: clamp(2rem, 6vw, 3.2rem); line-height: 1.12; letter-spacing: -0.04em;">i am leader of money group.</h1>
 
   <p style="margin: 0 0 0.75rem; font-size: 1.2rem;">we make money and chill.</p>
@@ -40,6 +41,8 @@ generalist
       </div>
     </div>
   </section>
+
+  <p style="margin: 1.5rem 0 0; color: #92a899; font-size: 0.82rem;"><a href="https://hackerone.com/pwnie" style="color: #a5e6b6; text-decoration-thickness: 1px; text-underline-offset: 0.2em;">HackerOne · pwnie</a></p>
 </main>
 
 <script src="/assets/countdown.js" defer></script>
