@@ -16,4 +16,30 @@ generalist
   <p style="margin: 0; color: #d4e3d7; font-size: 1.05rem;">juice wrld is our mascot.</p>
 
   <p style="margin: 1.25rem 0 0; color: #d4e3d7; font-size: 1.05rem;">members include pwnie, badr, marek, and paolo.</p>
+
+  <section aria-labelledby="meeting-countdown-title" style="margin: 2.5rem 0 0; padding: clamp(1.25rem, 4vw, 2rem); border: 1px solid rgba(151, 235, 171, 0.42); border-radius: 1.25rem; background: linear-gradient(145deg, rgba(47, 103, 64, 0.3), rgba(4, 10, 7, 0.82)); box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.06), 0 1rem 2.5rem rgba(0, 0, 0, 0.2);">
+    <h2 id="meeting-countdown-title" style="margin: 0; color: #c5f4cf; font-size: clamp(1.15rem, 4vw, 1.5rem); letter-spacing: 0.04em;">money group first meeting</h2>
+    <p style="margin: 0.5rem 0 1.25rem; color: #adc1b2; font-size: 0.9rem;">October 9, 2026 · 5:15 PM MDT</p>
+
+    <div style="display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 0.6rem;">
+      <div style="padding: 0.8rem 0.3rem; border: 1px solid rgba(165, 230, 182, 0.17); border-radius: 0.8rem; background: rgba(3, 8, 5, 0.58);">
+        <span id="countdown-days" style="display: block; color: #b6f5c5; font: 700 clamp(1.5rem, 6vw, 2.4rem)/1 ui-monospace, SFMono-Regular, Menlo, monospace; text-shadow: 0 0 18px rgba(97, 240, 133, 0.38);">03</span>
+        <span style="display: block; margin-top: 0.45rem; color: #b6c8bb; font-size: 0.72rem; letter-spacing: 0.1em; text-transform: uppercase;">days</span>
+      </div>
+      <div style="padding: 0.8rem 0.3rem; border: 1px solid rgba(165, 230, 182, 0.17); border-radius: 0.8rem; background: rgba(3, 8, 5, 0.58);">
+        <span id="countdown-hours" style="display: block; color: #b6f5c5; font: 700 clamp(1.5rem, 6vw, 2.4rem)/1 ui-monospace, SFMono-Regular, Menlo, monospace; text-shadow: 0 0 18px rgba(97, 240, 133, 0.38);">00</span>
+        <span style="display: block; margin-top: 0.45rem; color: #b6c8bb; font-size: 0.72rem; letter-spacing: 0.1em; text-transform: uppercase;">hours</span>
+      </div>
+      <div style="padding: 0.8rem 0.3rem; border: 1px solid rgba(165, 230, 182, 0.17); border-radius: 0.8rem; background: rgba(3, 8, 5, 0.58);">
+        <span id="countdown-minutes" style="display: block; color: #b6f5c5; font: 700 clamp(1.5rem, 6vw, 2.4rem)/1 ui-monospace, SFMono-Regular, Menlo, monospace; text-shadow: 0 0 18px rgba(97, 240, 133, 0.38);">00</span>
+        <span style="display: block; margin-top: 0.45rem; color: #b6c8bb; font-size: 0.72rem; letter-spacing: 0.1em; text-transform: uppercase;">minutes</span>
+      </div>
+      <div style="padding: 0.8rem 0.3rem; border: 1px solid rgba(165, 230, 182, 0.17); border-radius: 0.8rem; background: rgba(3, 8, 5, 0.58);">
+        <span id="countdown-seconds" style="display: block; color: #b6f5c5; font: 700 clamp(1.5rem, 6vw, 2.4rem)/1 ui-monospace, SFMono-Regular, Menlo, monospace; text-shadow: 0 0 18px rgba(97, 240, 133, 0.38);">00</span>
+        <span style="display: block; margin-top: 0.45rem; color: #b6c8bb; font-size: 0.72rem; letter-spacing: 0.1em; text-transform: uppercase;">seconds</span>
+      </div>
+    </div>
+  </section>
 </main>
+
+<script src="/assets/countdown.js" defer></script>
