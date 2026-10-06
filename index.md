@@ -14,4 +14,6 @@ generalist
   </figure>
 
   <p style="margin: 0; color: #d4e3d7; font-size: 1.05rem;">juice wrld is our mascot.</p>
+
+  <p style="margin: 1.25rem 0 0; color: #d4e3d7; font-size: 1.05rem;">members include pwnie, badr, marek, and paolo.</p>
 </main>
