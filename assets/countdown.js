@@ -67,7 +67,7 @@
   const rainLayer = document.getElementById("money-rain");
   if (rainLayer) {
     const narrowScreen = window.innerWidth < 540;
-    const bagCount = Math.min(32, Math.max(16, Math.round(window.innerWidth / 44)));
+    const bagCount = narrowScreen ? 12 : Math.min(28, Math.max(20, Math.round(window.innerWidth / 52)));
 
     for (let index = 0; index < bagCount; index += 1) {
       const bag = document.createElement("span");
@@ -75,7 +75,7 @@
       const horizontalPosition = narrowScreen
         ? (index % 2 === 0 ? Math.random() * 1.8 : 93 + Math.random() * 1.8)
         : ((index + Math.random() * 0.8) / bagCount) * 96;
-      const size = narrowScreen ? 17 + Math.random() * 5 : 19 + Math.random() * 16;
+      const size = narrowScreen ? 32 + Math.random() * 14 : 56 + Math.random() * 26;
 
       bag.className = "money-rain__bag";
       bag.textContent = "💰";
