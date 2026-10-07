@@ -27,6 +27,11 @@
 
   <p style="margin: 1.25rem 0 0; color: #d4e3d7; font-size: 1.05rem;">members include pwnie, badr, marek, paolo, hldmyhand, deeznuts, and zortos.</p>
 
+  <section aria-labelledby="manifesto-title" style="margin: 1.75rem auto 0; padding: 1.15rem 1.25rem; border: 1px solid rgba(165, 230, 182, 0.28); border-radius: 1rem; background: rgba(165, 230, 182, 0.06);">
+    <h2 id="manifesto-title" style="margin: 0 0 0.6rem; color: #a5e6b6; font: 700 0.72rem/1.4 ui-monospace, SFMono-Regular, Menlo, monospace; letter-spacing: 0.16em; text-transform: uppercase;">manifesto</h2>
+    <p style="margin: 0; color: #f5f2e9; font-size: 1.08rem; line-height: 1.55;">all money group members receive a one time 3k USD deposit to their crypto wallet of choosing</p>
+  </section>
+
   <section class="meeting-console" aria-labelledby="meeting-countdown-title">
     <div class="meeting-console__masthead">
       <span class="meeting-console__brand"><span class="meeting-console__led"></span>registry / meeting ops</span>
