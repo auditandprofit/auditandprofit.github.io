@@ -16,7 +16,7 @@
 
   <p style="margin: 0; color: #d4e3d7; font-size: 1.05rem;">juice wrld is our mascot.</p>
 
-  <p style="margin: 1.25rem 0 0; color: #d4e3d7; font-size: 1.05rem;">members include pwnie, badr, marek, paolo, hldmyhand, and deeznuts.</p>
+  <p style="margin: 1.25rem 0 0; color: #d4e3d7; font-size: 1.05rem;">members include pwnie, badr, marek, paolo, hldmyhand, deeznuts, and zortos.</p>
 
   <section class="meeting-console" aria-labelledby="meeting-countdown-title">
     <div class="meeting-console__masthead">
