@@ -189,3 +189,46 @@
   .meeting-console__number::before,
   .meeting-console__number::after { animation: none; }
 }
+
+body {
+  isolation: isolate;
+  background: linear-gradient(180deg, #ffffff 0%, #f7fcf8 100%);
+}
+
+.money-rain {
+  position: fixed;
+  z-index: -1;
+  inset: 0;
+  overflow: hidden;
+  pointer-events: none;
+  user-select: none;
+}
+
+.money-rain__bag {
+  position: absolute;
+  top: -3.5rem;
+  left: var(--money-x);
+  color: initial;
+  font-size: var(--money-size);
+  line-height: 1;
+  opacity: 0;
+  filter: drop-shadow(0 3px 5px rgba(30, 84, 44, 0.14));
+  animation: money-bag-fall var(--money-duration) linear var(--money-delay) infinite;
+  will-change: transform, opacity;
+}
+
+@keyframes money-bag-fall {
+  0% { opacity: 0; transform: translate3d(0, -8vh, 0) rotate(-18deg); }
+  10% { opacity: var(--money-opacity); }
+  90% { opacity: var(--money-opacity); }
+  100% { opacity: 0; transform: translate3d(var(--money-drift), 112vh, 0) rotate(24deg); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .money-rain__bag {
+    top: var(--money-resting-y);
+    opacity: var(--money-opacity);
+    animation: none;
+    transform: none;
+  }
+}

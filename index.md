@@ -1,3 +1,5 @@
+<div id="money-rain" class="money-rain" aria-hidden="true"></div>
+
 <main style="max-width: 46rem; box-sizing: border-box; margin: 3rem auto 4rem; padding: clamp(2rem, 6vw, 4rem); border: 1px solid #295c3e; border-radius: 1.5rem; background: radial-gradient(ellipse at top, #183523 0%, #0d1711 68%); color: #f5f2e9; text-align: center; box-shadow: 0 1.5rem 4rem rgba(18, 39, 25, 0.16);">
   <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 1rem; margin: 0 auto 2.25rem; padding: 0 0 1.75rem; border-bottom: 1px solid rgba(165, 230, 182, 0.2);">
     <img src="/20241227_2354_Wealthy%20Feline%20Mastermind_simple_compose_01jg6450cnfv2bjkyrbta05m7n.gif" alt="photo of me" width="172" height="97" style="display: block; width: min(38vw, 172px); height: auto; border: 1px solid rgba(165, 230, 182, 0.38); border-radius: 0.9rem; box-shadow: 0 0.75rem 1.75rem rgba(0, 0, 0, 0.25);">
