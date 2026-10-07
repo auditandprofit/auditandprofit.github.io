@@ -20,7 +20,7 @@
 
   <figure style="max-width: 34rem; margin: 1.75rem auto 0;">
     <div style="position: relative; width: 100%; aspect-ratio: 16 / 9; overflow: hidden; border: 1px solid rgba(165, 230, 182, 0.32); border-radius: 1rem; background: #050a07; box-shadow: 0 0.9rem 2rem rgba(0, 0, 0, 0.26);">
-      <iframe src="https://www.youtube.com/embed/dHq_AS62ioY" title="our group anthem" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; inset: 0; width: 100%; height: 100%; border: 0;"></iframe>
+      <iframe src="https://www.youtube.com/embed/443NT3fDq7U" title="our group anthem" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; inset: 0; width: 100%; height: 100%; border: 0;"></iframe>
     </div>
     <figcaption style="margin-top: 0.65rem; color: #d4e3d7; font-size: 0.95rem;">our group anthem</figcaption>
   </figure>
