@@ -25,7 +25,7 @@
     <figcaption style="margin-top: 0.65rem; color: #d4e3d7; font-size: 0.95rem;">our group anthem</figcaption>
   </figure>
 
-  <p style="margin: 1.25rem 0 0; color: #d4e3d7; font-size: 1.05rem;">members include pwnie, badr, marek, paolo, hldmyhand, deeznuts, and zortos.</p>
+  <p style="margin: 1.25rem 0 0; color: #d4e3d7; font-size: 1.05rem;">members include pwnie, deez, and paolo.</p>
 
   <section aria-labelledby="manifesto-title" style="margin: 1.75rem auto 0; padding: 1.15rem 1.25rem; border: 1px solid rgba(165, 230, 182, 0.28); border-radius: 1rem; background: rgba(165, 230, 182, 0.06);">
     <h2 id="manifesto-title" style="margin: 0 0 0.6rem; color: #a5e6b6; font: 700 0.72rem/1.4 ui-monospace, SFMono-Regular, Menlo, monospace; letter-spacing: 0.16em; text-transform: uppercase;">manifesto</h2>
