@@ -1,0 +1,7 @@
+# Cloud Agents
+
+Cloud Agents is a landing site for agent.kick.sh, a prompt-to-cloud-agent service building toward free unlimited DeepSeek V4.1 Flash tokens and cloud-agent runtime.
+
+- [Open Cloud Agents](https://agent.kick.sh/): launch a cloud agent.
+- [DeepSeek V4.1 Flash guide](https://auditandprofit.com/guides/deepseek-v4-1-flash-unlimited/): scope, current limits, and workflow.
+- [Unlimited cloud agents guide](https://auditandprofit.com/guides/unlimited-cloud-agents/): parallel-agent access explained.

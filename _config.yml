@@ -1,4 +1,5 @@
-theme: minima
-title: auditandprofit
-description: $$$
-future: true
+title: Cloud Agents
+url: https://auditandprofit.com
+lang: en-US
+exclude:
+  - README.md
