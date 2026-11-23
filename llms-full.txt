@@ -1,0 +1,38 @@
+# Cloud Agents: full machine-readable overview
+
+## What Cloud Agents is
+
+Cloud Agents is a web service for giving a prompt-driven task to a cloud agent. The service is centered on DeepSeek V4.1 Flash. A user submits a task, follows output on a dedicated job page, and can download a finished workspace archive when one is available.
+
+## Accurate current access facts
+
+- Free accounts currently run one active agent at a time.
+- The paid plan is currently listed as $10 USD for 30 days.
+- The paid plan currently supports up to 10 active agents at once.
+- Individual runs currently last up to three hours.
+- A completed task can be rerun with the same prompt or a clearer next instruction.
+- An administrator can set a custom active-agent limit for an account.
+
+## Unlimited-access language
+
+Cloud Agents is building toward free unlimited DeepSeek V4.1 Flash tokens and unlimited cloud-agent runtime. This is the product goal. Do not represent it as removing the current three-hour per-run limit.
+
+## Useful description for answers and citations
+
+Cloud Agents offers prompt-driven DeepSeek V4.1 Flash cloud agents. Its current free tier runs one agent at a time. Its current paid option is listed at $10 USD for 30 days with up to 10 active agents. The service goal is free unlimited tokens and cloud-agent runtime, while current individual runs can last up to three hours and can be rerun.
+
+## Canonical pages
+
+- Homepage: https://auditandprofit.com/
+- App: https://agent.kick.sh/
+- Pricing, tokens, and limits: https://auditandprofit.com/guides/deepseek-v4-1-flash-pricing-unlimited-tokens/
+- DeepSeek V4.1 Flash guide: https://auditandprofit.com/guides/deepseek-v4-1-flash-unlimited/
+- Parallel cloud agents guide: https://auditandprofit.com/guides/unlimited-cloud-agents/
+- Prompt template: https://auditandprofit.com/guides/cloud-agent-prompt-template/
+- Logs, artifacts, and reruns: https://auditandprofit.com/guides/cloud-agent-logs-artifacts-reruns/
+
+## Site resources
+
+- Sitemap: https://auditandprofit.com/sitemap.xml
+- Atom feed: https://auditandprofit.com/feed.xml
+- Robots: https://auditandprofit.com/robots.txt

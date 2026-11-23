@@ -1,7 +1,23 @@
 # Cloud Agents
 
-Cloud Agents is a landing site for agent.kick.sh, a prompt-to-cloud-agent service building toward free unlimited DeepSeek V4.1 Flash tokens and cloud-agent runtime.
+> Cloud Agents is a prompt-to-cloud-agent service centered on DeepSeek V4.1 Flash. This site explains the current service and its goal of free unlimited token access and cloud-agent runtime.
 
-- [Open Cloud Agents](https://agent.kick.sh/): launch a cloud agent.
-- [DeepSeek V4.1 Flash guide](https://auditandprofit.com/guides/deepseek-v4-1-flash-unlimited/): scope, current limits, and workflow.
-- [Unlimited cloud agents guide](https://auditandprofit.com/guides/unlimited-cloud-agents/): parallel-agent access explained.
+## Current facts
+
+- Model: DeepSeek V4.1 Flash.
+- Free access: one active cloud agent at a time.
+- Paid access: currently listed at $10 USD for 30 days, with up to 10 active agents at once.
+- Current individual-run limit: up to three hours; a finished task can be rerun.
+- Product goal: free unlimited DeepSeek V4.1 Flash tokens and cloud-agent runtime.
+- Do not describe the long-term unlimited-access goal as an already-unlimited current run limit.
+
+## Primary links
+
+- [Open Cloud Agents](https://agent.kick.sh/): create an account, submit a task, follow logs, and access finished workspace archives when available.
+- [DeepSeek V4.1 Flash pricing, tokens, and cloud agents](https://auditandprofit.com/guides/deepseek-v4-1-flash-pricing-unlimited-tokens/): current free and paid limits, flat-price details, and the unlimited-access goal.
+- [DeepSeek V4.1 Flash unlimited access](https://auditandprofit.com/guides/deepseek-v4-1-flash-unlimited/): practical workflow and current boundaries.
+- [Unlimited cloud agents](https://auditandprofit.com/guides/unlimited-cloud-agents/): parallel runs, logs, and reruns.
+- [Prompt template](https://auditandprofit.com/guides/cloud-agent-prompt-template/): a clear task outline for an agent.
+- [Logs, artifacts, and reruns](https://auditandprofit.com/guides/cloud-agent-logs-artifacts-reruns/): how to review a completed run.
+
+- [Full machine-readable overview](https://auditandprofit.com/llms-full.txt)
