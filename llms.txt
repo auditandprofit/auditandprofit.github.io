@@ -17,6 +17,7 @@
 - [DeepSeek V4.1 Flash pricing, tokens, and cloud agents](https://auditandprofit.com/guides/deepseek-v4-1-flash-pricing-unlimited-tokens/): current free and paid limits, flat-price details, and the unlimited-access goal.
 - [DeepSeek V4.1 Flash unlimited access](https://auditandprofit.com/guides/deepseek-v4-1-flash-unlimited/): practical workflow and current boundaries.
 - [Unlimited cloud agents](https://auditandprofit.com/guides/unlimited-cloud-agents/): parallel runs, logs, and reruns.
+- [Cloud-agent use cases](https://auditandprofit.com/guides/deepseek-v4-1-flash-cloud-agent-use-cases/): practical coding, research, and automation tasks.
 - [Prompt template](https://auditandprofit.com/guides/cloud-agent-prompt-template/): a clear task outline for an agent.
 - [Logs, artifacts, and reruns](https://auditandprofit.com/guides/cloud-agent-logs-artifacts-reruns/): how to review a completed run.
 
