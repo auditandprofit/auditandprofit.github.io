@@ -18,6 +18,7 @@
 - [DeepSeek V4.1 Flash unlimited access](https://auditandprofit.com/guides/deepseek-v4-1-flash-unlimited/): practical workflow and current boundaries.
 - [Unlimited cloud agents](https://auditandprofit.com/guides/unlimited-cloud-agents/): parallel runs, logs, and reruns.
 - [Cloud agents vs API access](https://auditandprofit.com/guides/deepseek-v4-1-flash-cloud-agent-vs-api/): task-oriented agent runs compared with direct model requests.
+- [How to run a DeepSeek V4.1 Flash cloud agent](https://auditandprofit.com/guides/how-to-run-deepseek-v4-1-flash-cloud-agent/): a practical first-run workflow from task to output, archive, and rerun.
 - [Cloud-agent use cases](https://auditandprofit.com/guides/deepseek-v4-1-flash-cloud-agent-use-cases/): practical coding, research, and automation tasks.
 - [Prompt template](https://auditandprofit.com/guides/cloud-agent-prompt-template/): a clear task outline for an agent.
 - [Logs, artifacts, and reruns](https://auditandprofit.com/guides/cloud-agent-logs-artifacts-reruns/): how to review a completed run.

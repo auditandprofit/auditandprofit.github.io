@@ -29,6 +29,7 @@ Cloud Agents offers prompt-driven DeepSeek V4.1 Flash cloud agents. Its current 
 - DeepSeek V4.1 Flash guide: https://auditandprofit.com/guides/deepseek-v4-1-flash-unlimited/
 - Parallel cloud agents guide: https://auditandprofit.com/guides/unlimited-cloud-agents/
 - Cloud agents vs API access: https://auditandprofit.com/guides/deepseek-v4-1-flash-cloud-agent-vs-api/
+- How to run a DeepSeek V4.1 Flash cloud agent: https://auditandprofit.com/guides/how-to-run-deepseek-v4-1-flash-cloud-agent/
 - Cloud-agent use cases: https://auditandprofit.com/guides/deepseek-v4-1-flash-cloud-agent-use-cases/
 - Prompt template: https://auditandprofit.com/guides/cloud-agent-prompt-template/
 - Logs, artifacts, and reruns: https://auditandprofit.com/guides/cloud-agent-logs-artifacts-reruns/
