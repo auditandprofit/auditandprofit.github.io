@@ -22,5 +22,6 @@
 - [Cloud-agent use cases](https://auditandprofit.com/guides/deepseek-v4-1-flash-cloud-agent-use-cases/): practical coding, research, and automation tasks.
 - [Prompt template](https://auditandprofit.com/guides/cloud-agent-prompt-template/): a clear task outline for an agent.
 - [Logs, artifacts, and reruns](https://auditandprofit.com/guides/cloud-agent-logs-artifacts-reruns/): how to review a completed run.
+- [Direct egress and hybrid OpenCode modes](https://auditandprofit.com/guides/direct-egress-hybrid-opencode/): choose cloud egress for a local program or a cloud-backed local OpenCode session.
 
 - [Full machine-readable overview](https://auditandprofit.com/llms-full.txt)
